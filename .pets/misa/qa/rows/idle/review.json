@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13505,
+          "bbox": [
+            32,
+            15,
+            160,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 1,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13517,
+          "bbox": [
+            32,
+            20,
+            160,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 2,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13409,
+          "bbox": [
+            32,
+            9,
+            160,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        },
+        {
+          "index": 3,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12822,
+          "bbox": [
+            33,
+            5,
+            159,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 4,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13194,
+          "bbox": [
+            36,
+            18,
+            156,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 5,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/idle/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13872,
+          "bbox": [
+            32,
+            16,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        }
+      ]
+    }
+  ]
+}

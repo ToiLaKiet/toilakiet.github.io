@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/jumping/frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/jumping/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10612,
+          "bbox": [
+            34,
+            62,
+            158,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 1,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/jumping/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10886,
+          "bbox": [
+            40,
+            31,
+            152,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 2,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/jumping/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10113,
+          "bbox": [
+            40,
+            5,
+            152,
+            149
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 3,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/jumping/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10681,
+          "bbox": [
+            41,
+            42,
+            151,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 4,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/jumping/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11021,
+          "bbox": [
+            35,
+            57,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        }
+      ]
+    }
+  ]
+}

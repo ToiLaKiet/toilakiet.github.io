@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/idle/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/idle/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/idle/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/idle/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/idle/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/idle/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/05.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/06.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-right/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/05.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/06.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running-left/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waving/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waving/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waving/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waving/03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/jumping/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/jumping/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/jumping/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/jumping/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/jumping/04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/05.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/06.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/failed/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waiting/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waiting/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waiting/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waiting/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waiting/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/waiting/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/running/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/review/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/review/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/review/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/review/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/review/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/frames-standard/review/05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

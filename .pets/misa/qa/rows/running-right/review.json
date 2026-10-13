@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14566,
+          "bbox": [
+            17,
+            15,
+            175,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 473
+        },
+        {
+          "index": 1,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14799,
+          "bbox": [
+            10,
+            17,
+            182,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 463
+        },
+        {
+          "index": 2,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15267,
+          "bbox": [
+            9,
+            16,
+            183,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 490
+        },
+        {
+          "index": 3,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13551,
+          "bbox": [
+            5,
+            16,
+            187,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 410
+        },
+        {
+          "index": 4,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13971,
+          "bbox": [
+            21,
+            18,
+            170,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 428
+        },
+        {
+          "index": 5,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13621,
+          "bbox": [
+            23,
+            16,
+            168,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 446
+        },
+        {
+          "index": 6,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14609,
+          "bbox": [
+            22,
+            17,
+            169,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 469
+        },
+        {
+          "index": 7,
+          "file": "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/running-right/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13961,
+          "bbox": [
+            20,
+            19,
+            172,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 455
+        }
+      ]
+    }
+  ]
+}

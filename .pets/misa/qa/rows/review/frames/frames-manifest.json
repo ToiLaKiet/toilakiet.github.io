@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "review",
+      "frames": [
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/review/frames/review/00.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/review/frames/review/01.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/review/frames/review/02.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/review/frames/review/03.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/review/frames/review/04.png",
+        "/Volumes/security/Personal/portfolio/toilakiet.github.io/.pets/misa/qa/rows/review/frames/review/05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}
